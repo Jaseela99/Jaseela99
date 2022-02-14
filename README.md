@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseela99" alt="jaseela99" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/500242/screenshots/3672858/media/cc4425bdc79ecad685bac8acc486deaf.gif" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **product engineer at SOAL**
 
