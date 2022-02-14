@@ -6,7 +6,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseela99&label=Profile%20views&color=0e75b6&style=flat" alt="jaseela99" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseela99" alt="jaseela99" /></a> </p>
+<p align="left"> <br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseela99" alt="jaseela99" /><br></a> </p>
 
 
 - 🌱 I’m currently learning **product engineering at SOAL**
