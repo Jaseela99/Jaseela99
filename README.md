@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Jaseela.A</h1>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 <h3 align="left">I'm 23 and learning to code..</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseela99&label=Profile%20views&color=0e75b6&style=flat" alt="jaseela99" /> </p>
