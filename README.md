@@ -1,4 +1,4 @@
-[![MasterHead]()](https://github.com/Jaseela99)
+[//[![MasterHead]()](https://github.com/Jaseela99)]
 <h1 align="center">Hi 👋, I'm Jaseela.A</h1>
 
 <h3 align="center">23 and learning to code..</h3>
