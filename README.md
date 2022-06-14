@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaseela.A</h1>
 <h3 align="center">23 and learning to code..</h3>
-<img align="right" alt="coding" src="https://i.pinimg.com/originals/d8/07/51/d807512767b9376de685a94a5f759f5f.gif"/>
+<img align="right" alt="coding" src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseela99&label=Profile%20views&color=0e75b6&style=flat" alt="jaseela99" /> </p>
 
