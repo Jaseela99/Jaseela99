@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/AffectionateVigorousBichonfrise-size_restricted.gif)](https://github.com/Jaseela99)
+[![MasterHead](https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif)](https://github.com/Jaseela99)
 <h1 align="center">Hi 👋, I'm Jaseela.A</h1>
 
 <h3 align="center">23 and learning to code..</h3>
