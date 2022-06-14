@@ -27,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseela99&show_icons=true&locale=en&layout=compact" alt="jaseela99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseela99&show_icons=true&locale=en" alt="jaseela99" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jaseela99&theme=tokyonight)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaseela99&" alt="jaseela99" /></p>
