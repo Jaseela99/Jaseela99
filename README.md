@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseela99&show_icons=true&locale=en" alt="jaseela99" /></p>
 
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jaseela99&theme=tokyonight)](https://git.io/streak-stats)" alt="jaseela99" /></p>
+<p><img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=Jaseela99&theme=tokyonight)" alt="jaseela99" /></p>
