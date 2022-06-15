@@ -1,7 +1,6 @@
 
-[![MasterHead](![image](https://user-images.githubusercontent.com/96909251/173770340-ab1a663c-8875-4a90-b6ef-e93e3332407d.png)
-)
-)](https://jaseela99.github.io)
+
+![](https://user-images.githubusercontent.com/96909251/173770340-ab1a663c-8875-4a90-b6ef-e93e3332407d.png)
 
 <h1 align="center">Hi 👋, I'm Jaseela.A</h1>
 
