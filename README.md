@@ -7,7 +7,8 @@
 <h3 align="center">23 and learning to code..</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c8a8e39ae4658de1e4dc8f03af0f4792"/>
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/96909251/173772609-56057254-fe90-4456-8867-2991b7290b46.png)
+"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseela99&label=Profile%20views&color=0e75b6&style=flat" alt="jaseela99" /> </p>
 
