@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jaseelachittur@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y4NyKUqc8pgnWGOOAorG1UH8v084tx7R07mbda42lzs/edit?usp=sharing](https://docs.google.com/document/d/1y4NyKUqc8pgnWGOOAorG1UH8v084tx7R07mbda42lzs/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wHNgCPu-0XWzoDqsYxOE2dxEjttKl8wp/view?usp=sharing](https://drive.google.com/file/d/1wHNgCPu-0XWzoDqsYxOE2dxEjttKl8wp/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
